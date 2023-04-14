@@ -10,8 +10,8 @@
 
 <div align="center" style="display: inline_block"> 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jonathan&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFire261&layout=compact&theme=radical)](https://github.com/dev-jonathan/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-IgorFire261_icons=true&theme=radical)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFire261&layout=compact&theme=radical)](https://github.com/IgorFire261/github-readme-stats)
  
  </div > 
 
