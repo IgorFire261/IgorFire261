@@ -1,7 +1,7 @@
   
   <h1 align="center">
     Oi, eu sou o 
-    <a href="#">Igor MAriz Cunha</a>
+    <a href="#">Igor Mariz Cunha</a>
   </h1>
   
    <p align="center">
@@ -11,7 +11,7 @@
 <div align="center" style="display: inline_block"> 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jonathan&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jonathan&layout=compact&theme=radical)](https://github.com/dev-jonathan/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFire261&layout=compact&theme=radical)](https://github.com/dev-jonathan/github-readme-stats)
  
  </div > 
 
